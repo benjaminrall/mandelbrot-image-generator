@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITMXgO9djibo6PFHGa5JlbpK6IZMU9MVCn53RywM2KIRjDMhY1e46qPjGtavOHhRuKXv7CAksX6XLMpSo7xbxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\Python\\mandelbrot\\MandelbrotSetGenerator\\MandelbrotSetGenerator\\MandelbrotSetGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ben\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
