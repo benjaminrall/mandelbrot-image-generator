@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\Python\\mandelbrot\\MandelbrotSetGenerator\\MandelbrotSetGenerator\\MandelbrotSetGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\C#\\mandelbrot-image-generator\\MandelbrotSetGenerator\\MandelbrotSetGenerator.csproj",
       "projectName": "MandelbrotSetGenerator",
-      "projectPath": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\Python\\mandelbrot\\MandelbrotSetGenerator\\MandelbrotSetGenerator\\MandelbrotSetGenerator.csproj",
+      "projectPath": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\C#\\mandelbrot-image-generator\\MandelbrotSetGenerator\\MandelbrotSetGenerator.csproj",
       "packagesPath": "C:\\Users\\Ben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\Python\\mandelbrot\\MandelbrotSetGenerator\\MandelbrotSetGenerator\\obj\\",
+      "outputPath": "C:\\Users\\Ben\\OneDrive - Peter Symonds College\\Desktop\\Coding\\C#\\mandelbrot-image-generator\\MandelbrotSetGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ben\\AppData\\Roaming\\NuGet\\NuGet.Config",
