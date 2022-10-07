@@ -8,8 +8,8 @@ namespace MandelbrotSetGenerator
     public static class Program
     {
 
-        private const int MaxIteration = 100;
-        private const int ResolutionScale = 95;
+        private const int MaxIteration = 150;
+        private const int ResolutionScale = 96;
         
         private static readonly (int width, int height) Resolution = (247 * ResolutionScale, 224 * ResolutionScale);
         private static readonly double ScaleFactor = Math.Min(Resolution.width, Resolution.height);
